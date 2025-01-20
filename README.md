@@ -1,2 +1,1 @@
-# PTStudios
-Pink Triangle Studios Webpage
+public facing, annoucement page. 
